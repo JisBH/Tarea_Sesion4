@@ -1,0 +1,4 @@
+INSERT INTO BOOK_ENTITY VALUES (1, 'Don Quijote de la Mancha');
+INSERT INTO BOOK_ENTITY VALUES (2, 'Fortunata y Jacinta');
+INSERT INTO BOOK_ENTITY VALUES (3, 'Othello');
+INSERT INTO BOOK_ENTITY VALUES (4, 'El rey Lear');
